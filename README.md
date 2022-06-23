@@ -1,0 +1,4 @@
+- 👋 oi, me nome é @suebl.
+- 👋 meu email de contato é @ suedeilys.ochoa@escola.pr.gov.br
+- 👀 eu estou interessado em apreder a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javescript e scratch.
